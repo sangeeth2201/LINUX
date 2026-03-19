@@ -1,8 +1,8 @@
 # Open Source Audit Project
 
 ## Student Details
-- Name: Your Name
-- Roll Number: Your Roll Number
+- Name: SANGEETH KUMAR SAI S
+- Roll Number: 24BAS10124
 
 ## Chosen Software
 Git (Version Control System)
